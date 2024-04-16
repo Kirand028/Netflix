@@ -158,7 +158,8 @@ html, body, main {
 .details-edit {
     width: 78%;
     flex-direction: column;
-    border: 1px solid #e7e7e7;
+    /* border: 1px solid #e7e7e7; */
+    box-shadow: 0 0 5px #c0c0c069;
     border-radius: 15px;
 }
 
